@@ -34,6 +34,7 @@ main h2 {
 .dados{
     text-align: center;
     margin: 40px 60px;
+    width: 25vw;
 }
 .input-content{
     text-align: center;
@@ -75,11 +76,12 @@ main h2 {
     margin: 20px 40px;
     text-shadow: 1px 1px 1px black;
     text-align: justify;
-    width: 400px;
+    width: 25vw;
 }
 .user-list > h2 {
-    margin: 30px;
+    padding: 20px 30px;
     text-align: center;
+    width: auto;
 }
 .user-info{
     height: 280px;
